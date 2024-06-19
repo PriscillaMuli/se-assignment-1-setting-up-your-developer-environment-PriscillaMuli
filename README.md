@@ -8,6 +8,10 @@ Setup Development Environment
 #Objective:
 This assignment aims to familiarize you with the tools and configurations necessary to set up an efficient developer environment for software engineering projects. Completing this assignment will give you the skills required to set up a robust and productive workspace conducive to coding, debugging, version control, and collaboration.
 
+THE LINK BELOW IS A REDIRECTION TO THE ASSIGNMENT DOCUMENTATION. 
+PLEASE FIND ATTACHED IN IT A LINK TO MY INITIALIZED GITHUB REPOSITORY
+https://docs.google.com/document/d/1yZn9QbOl-FwnInA3LdXPExeDkRX7ZYx9XTnot548fBc/edit
+
 #Tasks:
 
 1. Select Your Operating System (OS):
@@ -52,3 +56,5 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+
